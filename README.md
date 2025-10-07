@@ -8,7 +8,7 @@ The notebook focuses on analyzing and predicting Bitcoin price movements through
 ---
 
 ## 📊 Objectives
-- Fetch and preprocess historical Bitcoin price data from **Yahoo Finance**
+- Fetch and preprocess historical Bitcoin price data from **Kagglehub**
 - Perform **Exploratory Data Analysis (EDA)** with moving averages and volatility trends
 - Transform time series data for supervised learning
 - Train and tune **RNN**, **LSTM**, and **GRU** models
