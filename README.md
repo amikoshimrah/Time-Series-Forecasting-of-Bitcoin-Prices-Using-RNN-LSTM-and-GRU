@@ -80,15 +80,9 @@ Compared model performances visually and statistically.
 ---
 
 ## 👨‍🏫 Mentors
-- **Chirag Jhumkhawala**  
+- **Chirag Jhumkhawala** 
 - **KARKAVELRAJA J**  
 - **Pranav**
-
----
-
-## 🔗 Resources
-- 📂 Data Source: [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD)  
-- 💻 Code Repository: [Add your GitHub project link here]
 
 ---
 
