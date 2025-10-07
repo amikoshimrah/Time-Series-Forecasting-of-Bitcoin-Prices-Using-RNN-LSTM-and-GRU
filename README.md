@@ -20,7 +20,7 @@ The notebook focuses on analyzing and predicting Bitcoin price movements through
 ## 🧩 Workflow Summary
 
 ### 1. **Data Collection**
-- Source: [Yahoo Finance](https://finance.yahoo.com/)
+- Source:  [Bitcoin Historical Price Dataset (Kaggle)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
 - Ticker: `BTC-USD`
 - Data includes **Open, High, Low, Close, Volume**, and **Date** columns.
 
